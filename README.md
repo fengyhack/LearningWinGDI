@@ -1,3 +1,3 @@
-# WinGDI
+# Learning WinGDI
 
 Demos and examples of Windows GDI
